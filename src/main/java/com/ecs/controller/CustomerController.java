@@ -24,7 +24,7 @@ import com.ecs.service.ICustomerService;
 
 
 
-@CrossOrigin(origins="http://localhost:4200/")
+@CrossOrigin(origins="https://nawabi-store.000webhostapp.com/")
 @RestController
 @RequestMapping("/customer")
 public class CustomerController {
