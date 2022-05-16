@@ -24,7 +24,7 @@ import com.ecs.service.ICustomerService;
 
 
 
-@CrossOrigin(origins="https://mesocephalic-harnes.000webhostapp.com/")
+@CrossOrigin(origins="https://script.google.com/macros/s/AKfycbwYtf2JJ6V5ckSYCJ4uHlogFBUARVW0ZgatUeAp0WplDFJhcvisiqJy-kzho8644QohbA/exec")
 @RestController
 @RequestMapping("/customer")
 public class CustomerController {
